@@ -1,0 +1,181 @@
+説明文, せつめいぶん, None, None, Văn bản giải thích 
+右に出る, みぎにでる, None, None, Tôi đi ra bên phải 
+取り上げる, とりあげる, cầm lấy; cất lên; dung nạp, pick up, None
+謙遜する, けんそんする, nhún mình , None, None
+そこで, そこで, bây giờ; tiếp theo; ngay sau đó; ở đó, so , None
+行列, ぎょうれつ, du hành , procession, None
+横目, よこめ, sự liếc mắt; sự nhìn ngang, None, None
+動き回る, うごきまわる, None, None, Di chuyển xung quanh 
+一見, いっけん, nhìn; nhìn một lần; thấy; thấy một lần; xem; xem một lần, look , None
+行き来する, いきき, đi đi lại lại, None, None
+担ぐ, かつぐ, khiêng, shoulder , None
+割合, わりあい, tỷ lệ, proportion , None
+構成する, こうせい, cấu thành; cấu tạo; tạo nên, compose , None
+新たな, あらたな, None, new, A mới 
+組織する, そしき, tổ chức; cấu trúc, organize , None
+集団, しゅうだん, tập thể; tập đoàn, group, None
+経つ時間が, 経つ時間が, None, None, được thông qua thời gian 
+比率, ひりつ, tỉ suất , ratio , None
+分担する, ぶんたん, phân chia (trách phận); gánh vác, share , None
+さすがに, さすがに, None, indeed , Đúng như dự đoán 
+能率, のうりつ, hiệu quả; hiệu suất; năng suất , efficiency, None
+落ちる能率が, 落ちる能率が, None, None, Rơi hiệu quả 
+登場する, とうじょう, đi vào, appear, None
+ご存じ, ごぞんじ, biết; hiểu, None, None
+人材, じんざい, nhân tài , talent, None
+スタートする, スタートする, bắt đầu; khởi động , None, None
+特命, とくめい, Sứ mệnh, special mission 【.】 , None
+プロジェクト, プロジェクト, dự án , project , None
+スタープレイヤー, スタープレイヤー, None, None, Sao chơi 
+プレイヤー, プレイヤー, None, None, Máy nghe nhạc 
+チーム, チーム, nhóm; hội; đội; hội , team, None
+からめる, からめる, None, None, Đường ngào 
+法則, ほうそく, đạo luật , law, None
+当たる法則する, 当たる法則する, None, None, Để hits luật 
+脇役, わきやく, vai trò trợ giúp , supporting actor ［actress］, None
+脚本, きゃくほん, kịch bản, script , None
+偉大, いだい, sự vĩ đại; to lớn; xuất chúng, greatness, None
+脈拍, みゃくはく, sự đập của mạch , pulse, None
+上がる脈拍が, 上がる脈拍が, None, None, Tăng xung 
+アドレナリン, アドレナリン, tuyến trên thận; tuyến thượng thận, adrenalin， -line , None
+徐々に, じょじょに, chầm chậm; thong thả từng chút một, None, None
+疲弊する, 疲弊する, None, None, Kiệt sức 
+理想的な, 理想的な, None, ideal, Lý tưởng 
+現象, げんしょう, hiện tượng, phenomenon, None
+参考資料, さんこうしりょう, None, None, Tài liệu tham khảo 
+プライベートな, プライベートな, None, private , Riêng 
+示す興味を, 示す興味を, None, None, thể hiện sự quan tâm 
+老舗, しにせ, cửa hàng có từ lâu đời, None, None
+優れる, すぐれる, ưu , excel, None
+営業マン, えいぎょうマン, None, None, Người bán hàng 
+太鼓, たいこ, cái trống; trống lục lạc , drum, None
+腕太鼓の, 腕太鼓の, None, None, Của cánh tay trống 
+地元, じもと, địa phương; trong vùng, None, None
+取引先, とりひきさき, Khách hàng, None, None
+絨毯, じょうたん, thảm , carpet, None
+出張所, しゅっちょうじょ, chỗ làm việc; nơi công tác , None, None
+所長, しょちょう, trưởng phòng; người đứng đầu , director , None
+社名, しゃめい, None, None, Tên công ty 
+名, な, danh nghĩa, name, None
+織物, おりもの, vải dệt , textile , None
+モダンな, モダンな, None, None, Hiện đại 
+市場開拓, しじょうかいたく, None, None, Thị trường 
+開拓する, かいたく, khai thác; tiên phong; khai phá, pioneer , None
+きっての, きっての, None, None, Stamp của 
+何しろ, なにしろ, dù thế nào đi nữa, you know , None
+知識, ちしき, chữ nghĩa , knowledge, None
+成果, せいか, thành quả; kết quả , result, None
+あげる成果を, あげる成果を, None, None, các kết quả để cải thiện 
+実, じつ, sự chân thực; sự chân thành; sự thành thực, fruit, None
+結ぶ実を, 結ぶ実を, None, None, cần buộc thực tế 
+魅せる, みせる, None, None, Thu hút 
+磨く腕を, 磨く腕を, None, None, cánh tay để đánh bóng 
+好き太鼓, 好き太鼓, None, None, Tình yêu trống 
+得意, とくい, đắc ý; khoái trí; tâm đắc, pride, None
+顔負け, かおまけ, sự xấu hổ; xấu hổ; ngượng; ngượng ngùng, None, None
+リズム, リズム, dịp , rhythm, None
+感リズム, 感リズム, None, None, Cảm thấy nhịp điệu 
+甘えるお言葉に, 甘えるお言葉に, None, None, lời nói của bạn Amaeru 
+メンバー, メンバー, thành viên , member, None
+リーダー, リーダー, độc giả , leader, None
+踊り, おどり, sự nhảy múa; múa, dance , None
+ブレイクダンス, ブレイクダンス, None, None, Break dance 
+才能, さいのう, bạn lãnh , ability, None
+ツェフ, ツェフ, None, None, Cech 
+好意, こうい, hữu ý; cảm tình; sự ưu ái; thiện ý; thiện chí; lòng tốt, favor, None
+ホームカミングデイ, ホームカミングデイ, None, None, Homecoming ngày 
+代々, だいだい, đời đời , None, None
+実行委員, じっこういいん, None, None, Ban chấp hành 
+進行する, しんこうする, tiến hành , move, None
+部下, ぶか, bầy tôi , man, None
+後輩, こうはい, người có bậc thấp hơn; học sinh khối dưới; người vào (công ty...) sau; hậu bối; người vào sau; hậu sinh, inferior , None
+エルイーディー電球, エルイーディー電球, None, None, Bóng đèn El Tweedy 
+電球, でんきゅう, bóng đèn, bulb, None
+寿命, じゅみょう, tuổi thọ; đời , life, None
+用いる, もちいる, áp dụng cho , use, None
+お嬢さん, おじょうさん, Thưa cô, ...; cô gái; con gái, miss , None
+転職する, にてんしょくする, Chuyển nghề, None, None
+環境問題, かんきょうもんだい, vấn đề môi trường, None, None
+経営する, けいえい, kinh doanh, run, None
+すべて, すべて, tất cả, all, None
+各国, かくこく, các nước; các quốc gia, None, None
+地球温暖化, ちきゅうおんだんか, None, None, Sự nóng lên toàn cầu 
+温暖化, おんだんか, None, None, Sự nóng lên toàn cầu 
+家族関係, 家族関係, None, None, Các mối quan hệ gia đình 
+論文, ろんぶん, luận , paper, None
+題名, だいめい, nhan đề , title, None
+ベジタリアン, ベジタリアン, None, None, Chay 
+選挙する, せんきょ, bầu cử , elect, None
+出る選挙に, 出る選挙に, None, None, để có được ra khỏi cuộc bầu cử 
+混乱する, こんらん, hỗn loạn, confuse, None
+調整する, ちょうせい, điều chỉnh, adjust, None
+当番, とうばん, việc thực thi nhiệm vụ; lượt (làm việc), None, None
+交代する, こうたい, thay đổi; thay phiên; thay nhau, alternate, None
+ピアニスト, ピアニスト, người chơi đàn pianô , pianist, None
+楽器, がっき, nhạc cụ, (musical) instrument, None
+一家音楽, 一家音楽, None, None, Âm nhạc gia đình 
+秘密, ひみつ, bí ẩn , secret, None
+帰国生徒, 帰国生徒, None, None, Sinh viên trở về 
+器用な, 器用な, None, clever, Khéo léo 
+かく汗を, かく汗を, None, None, Mồ hôi 
+注文する, ちゅうもん, đặt hàng; gọi món, order, None
+マナー, マナー, lối; thói; kiểu; dáng vẻ; bộ dạng , manner, None
+国民栄誉賞, 国民栄誉賞, None, None, Giải thưởng danh dự của dân 
+栄誉, えいよ, sự vinh dự; niềm vinh dự, glory, None
+信頼する, しんらい, tin cậy; tín nhiệm , trust, None
+思い浮かべる, おもいうかべる, None, None, Hình dung 
+中年, ちゅうねん, trung niên , middle age, None
+提供する, ていきょう, cung cấp, offer, None
+展開する, てんかいする, khai triển , unfold , None
+走り回る, はしりまわる, chạy vòng tròn, None, None
+こうして, こうして, dường ấy , like this , None
+あっという間, あっというま, None, None, Nháy mắt 
+支社, ししゃ, chi nhánh , affiliate , None
+しみじみ, しみじみ, None, None, Sâu sắc 
+でかい, でかい, to; to lớn , None, None
+うながり人と人との, うながり人と人との, None, None, Với người Unagari và người 
+金儲け, かねもうけ, kiếm tiền; cày tiền (tiếng lóng), None, None
+緊急, きんきゅう, cần kíp , emergency, None
+共生する, 共生する, None, None, Sống chung với nhau 
+耳にする, 耳にする, None, hear , Nghe 
+共に, ともに, cùng nhau , together , None
+利益, りえき, ích , profit , None
+分かち合う, わかちあう, None, share, Phần 
+ヤドカリ, ヤドカリ, None, hermit crab , Paguroidea 
+イソギンチャク, イソギンチャク, None, sea anemone , Bộ Hải quỳ 
+用語, ようご, thuật ngữ , term, None
+社会科学, しゃかいかがく, môn khoa học xã hội , None, None
+分野, ぶんや, lĩnh vực, field, None
+込める意味を, 込める意味を, None, None, thỏa ý nghĩa 
+乗り越える, のりこえる, trèo lên; vượt lên trên; vượt qua (khó khăn), surmount , None
+怠け者, なまけもの, đại lãn , idler , None
+真面目な, まじめな, đàng hoàng , None, None
+ナマケモノ, ナマケモノ, None, sloth , Tánh lười biếng 
+ぶら下がる, ぶらさがる, treo lòng thòng; rủ xuống; được treo vào , hang, None
+移動する, いどう, làm di chuyển; làm dịch chuyển, move, None
+エネルギー, エネルギー, hơi sức , energy, None
+ちょうど, ちょうど, vừa đúng; vừa chuẩn, just, None
+賢い, かしこい, thông minh; khôn ngoan; khôn; khôn khéo, wise, None
+さんの右に出る人はいない, さんの右に出る人はいない, None, None, Không ai đi ra ngoài để nói đúng 
+そんな大したものじゃありません, そんな大したものじゃありません, None, None, Mà không phải là loại vấn đề lớn 
+いえそれほどでも, いえそれほどでも, None, None, Và không kém 
+ただ自分で言うのもなんですが, ただ自分で言うのもなんですが, None, None, Mặc dù chỉ là những gì bạn nói trên của riêng bạn cũng 
+お言葉に甘えて, お言葉に甘えて, None, None, Trong những ân sủng từ ngữ của bạn 
+水戸黄門, みとこうもん, None, None, Mito Komon 
+助さん角さん, 助さん角さん, None, None, Góc Trợ lý của ông 
+うっかり八兵衛, うっかり八兵衛, None, None, Vô tình Hachibe 
+ハリーポッター, ハリーポッター, None, None, Harry potter 
+ロン, ロン, None, None, Ron 
+ハーマイオニー, ハーマイオニー, None, None, Hermione 
+ネビルロングボトム, ネビルロングボトム, None, None, Neville Longbottom 
+トルコ, トルコ, nước Thổ nhĩ kỳ , Turkey. , None
+イスタンブール, イスタンブール, thủ đô Istanbul của Thổ Nhĩ Kỳ, None, None
+新潟, にいがた, None, None, Niigata 
+佐渡, さと, None, None, Sado 
+鬼太鼓, 鬼太鼓, None, None, Trống Demon 
+佐渡おけさ, 佐渡おけさ, None, None, Sado Okesa 
+マイケルジャクソン, マイケルジャクソン, None, None, Michael jackson 
+欧米, おうべい, Âu Mỹ, west , None
+徳島, とくしま, None, None, Tokushima 
+阿波踊り, あわおどり, None, None, Awa khiêu vũ 
+サンバ, サンバ, samba; điệu nhảy samba , samba , None
